@@ -1,0 +1,261 @@
+Toy Story:7
+Crazy Stupid Love:7
+The wizard of oz:2
+The wizard of oz:4
+Toy Story:6
+Fight Club:9
+Dunkirk:6
+Crazy Stupid Love:6
+The wizard of oz:3
+La La Land:3
+Eternal Sunshine of the Spotless Mind:7
+Pirates of the Caribbean:8
+The Shawshank Redemption:4
+Catch me if you can:5
+Eternal Sunshine of the Spotless Mind:9
+Joker:10
+Avatar:8
+Eternal Sunshine of the Spotless Mind:8
+The Inglorious Basterds:9
+Toy Story:7
+Dunkirk:4
+Avengers End Game:8
+Marley and Me:6
+Catch me if you can:7
+Slumdog Millionaire:7
+The Shawshank Redemption:6
+Joker:9
+Dunkirk:4
+The Godfather:6
+The Godfather:9
+Requiem for a dream:7
+Pulp Fiction:6
+Marley and Me:7
+Joker:10
+Requiem for a dream:8
+The Social Network:9
+The wizard of oz:5
+Avatar:8
+Harry Potter and the prisoner of  Azkaban:9
+Jurassic Park:8
+Don’t Breathe:6
+Slumdog Millionaire:6
+Schindler’s List:9
+Requiem for a dream:7
+Jurassic Park:8
+Annabelle:3
+Casablanca:7
+Annabelle:3
+Pulp Fiction:5
+The Shawshank Redemption:5
+La La Land:6
+Requiem for a dream:4
+Casablanca:7
+Jurassic Park:7
+Jurassic Park:8
+The Inglorious Basterds:9
+Eternal Sunshine of the Spotless Mind:10
+Harry Potter and the prisoner of  Azkaban:6
+Crazy Stupid Love:7
+Schindler’s List:7
+Slumdog Millionaire:8
+Jurassic Park:9
+Schindler’s List:8
+Annabelle:5
+Joker:8
+Schindler’s List:9
+Avengers End Game:9
+La La Land:2
+The Shawshank Redemption:5
+Don’t Breathe:7
+The Inglorious Basterds:9
+Pulp Fiction:5
+Jurassic Park:7
+Schindler’s List:7
+Joker:9
+La La Land:4
+Avatar:7
+The Godfather:7
+Crazy Stupid Love:5
+Fight Club:5
+Harry Potter and the prisoner of  Azkaban:5
+The wizard of oz:3
+Casablanca:6
+Fight Club:8
+The Inglorious Basterds:8
+Dunkirk:6
+The Shawshank Redemption:5
+Marley and Me:8
+Don’t Breathe:7
+Casablanca:6
+Crazy Stupid Love:5
+La La Land:5
+Requiem for a dream:8
+The Inglorious Basterds:9
+Slumdog Millionaire:8
+The Shawshank Redemption:7
+Avengers End Game:9
+Catch me if you can:7
+Catch me if you can:6
+Casablanca:6
+Harry Potter and the prisoner of  Azkaban:5
+Pulp Fiction:6
+The Social Network:7
+Eternal Sunshine of the Spotless Mind:7
+The Social Network:7
+Marley and Me:7
+Pulp Fiction:3
+Casablanca:8
+Annabelle:5
+Dunkirk:4
+Pirates of the Caribbean:8
+The Inglorious Basterds:10
+Joker:8
+The Social Network:8
+Pirates of the Caribbean:7
+The wizard of oz:4
+The Social Network:8
+Casablanca:7
+Don’t Breathe:6
+Avengers End Game:7
+Crazy Stupid Love:6
+Dunkirk:5
+Avengers End Game:8
+The wizard of oz:7
+Pirates of the Caribbean:7
+Harry Potter and the prisoner of  Azkaban:6
+Joker:7
+The Godfather:9
+Slumdog Millionaire:8
+Toy Story:8
+Casablanca:7
+Jurassic Park:7
+Requiem for a dream:8
+Jurassic Park:8
+Catch me if you can:7
+Requiem for a dream:9
+Don’t Breathe:9
+The Godfather:7
+Avatar:7
+The Social Network:7
+Fight Club:8
+Requiem for a dream:7
+Catch me if you can:7
+Catch me if you can:6
+The Shawshank Redemption:3
+Pulp Fiction:4
+The Social Network:8
+Marley and Me:8
+The Shawshank Redemption:6
+Annabelle:7
+The wizard of oz:3
+Avatar:8
+Harry Potter and the prisoner of  Azkaban:6
+Harry Potter and the prisoner of  Azkaban:3
+Avengers End Game:10
+The Inglorious Basterds:10
+Catch me if you can:3
+Fight Club:8
+Pulp Fiction:4
+Slumdog Millionaire:7
+Crazy Stupid Love:5
+The Godfather:8
+Avatar:9
+Don’t Breathe:5
+Fight Club:5
+Don’t Breathe:7
+Casablanca:7
+Avengers End Game:8
+Eternal Sunshine of the Spotless Mind:8
+Annabelle:4
+Pirates of the Caribbean:9
+Harry Potter and the prisoner of  Azkaban:6
+Toy Story:8
+Harry Potter and the prisoner of  Azkaban:6
+The Inglorious Basterds:10
+Crazy Stupid Love:7
+Schindler’s List:8
+Catch me if you can:7
+Slumdog Millionaire:7
+Dunkirk:2
+La La Land:3
+Pirates of the Caribbean:7
+Schindler’s List:8
+La La Land:5
+The wizard of oz:2
+The Godfather:8
+Marley and Me:4
+La La Land:4
+Annabelle:4
+Pulp Fiction:4
+Crazy Stupid Love:7
+Jurassic Park:8
+Toy Story:4
+Avatar:6
+Schindler’s List:7
+Casablanca:8
+The Social Network:7
+Crazy Stupid Love:7
+Slumdog Millionaire:6
+The Godfather:7
+Marley and Me:8
+The Social Network:6
+La La Land:6
+Jurassic Park:9
+Slumdog Millionaire:7
+The Shawshank Redemption:3
+Dunkirk:5
+The Shawshank Redemption:9
+Marley and Me:9
+Don’t Breathe:6
+Fight Club:7
+Marley and Me:9
+Pulp Fiction:7
+Avatar:6
+The Godfather:6
+Avatar:5
+Toy Story:6
+Catch me if you can:5
+Eternal Sunshine of the Spotless Mind:7
+Annabelle:3
+Avengers End Game:7
+Pirates of the Caribbean:8
+Joker:9
+The Social Network:5
+The wizard of oz:6
+Don’t Breathe:2
+Avatar:7
+Joker:8
+Annabelle:4
+Pirates of the Caribbean:8
+Toy Story:7
+Fight Club:7
+Annabelle:5
+Slumdog Millionaire:7
+Marley and Me:9
+The Inglorious Basterds:9
+Eternal Sunshine of the Spotless Mind:7
+Requiem for a dream:4
+Don’t Breathe:7
+Toy Story:5
+Harry Potter and the prisoner of  Azkaban:5
+Toy Story:7
+Dunkirk:6
+The Godfather:7
+Joker:9
+Eternal Sunshine of the Spotless Mind:8
+Fight Club:9
+Fight Club:7
+Schindler’s List:8
+Requiem for a dream:9
+Eternal Sunshine of the Spotless Mind:10
+Avengers End Game:9
+Pulp Fiction:5
+Schindler’s List:10
+Avengers End Game:7
+Pirates of the Caribbean:8
+La La Land:2
+Pirates of the Caribbean:7
+Dunkirk:5
+The Inglorious Basterds:8
+### END OF INPUT ###

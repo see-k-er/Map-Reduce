@@ -1,0 +1,128 @@
+2009:Avatar
+1997:Titanic
+2000:Requiem for a dream
+2003:Pirates of the Caribbean
+1994:The Shawshank Redemption
+1999:Fight Club
+1994:Pulp Fiction
+2010:Inception
+2008:The Dark Knight
+1994:Forrest Gump
+1964:Mary Poppins
+2019:Parasite
+2013:12 years a slave
+2016:Me Before You
+2019:Avengers End Game
+2003:Kill Bill
+2009:The Inglorious Basterds
+2016:Don’t Breathe
+2014:Annabelle
+2008:Slumdog Millionaire
+2019:Joker
+2004:Harry Potter and the prisoner of  Azkaban
+2004:Eternal Sunshine of the Spotless Mind
+2008:Marley and Me
+2011:Crazy Stupid Love
+2016:La La Land
+2002:Catch me if you can
+2017:Dunkirk
+2010:The Social Network
+1993:Jurassic Park
+1972:The Godfather
+1991:The silence of the lambs
+1957:12 angry men
+2019:Parasite
+1990:Goodfellas
+2000:Gladiator
+1939:Gone with the wind
+1995:Toy Story
+1939:The wizard of oz
+1957:The bridge on the river Kwai
+1993:Schindler’s List
+1942:Casablanca
+2003:The Lord of the Rings - The Return of the King
+1999:The Matrix
+2014:Interstellar
+2002:City of God
+2001:Spirited Away
+1998:Saving Private Ryan
+1999:The Green Mile
+1997: Life Is Beautiful
+2014:Whiplash
+2011:The Intouchables
+2006:The Prestige
+2006:The Departed
+2002:The Pianist
+1995:The usual suspects
+1994:The Lion King
+1985:Back to the future
+2020:Hamilton
+2018:Capernaum
+2017:Coco
+2016:Dangal
+2012:Django Unchained
+2012:The dark knight rises
+2009:3 Idiots
+2007:Taare Zameen Par
+2008:Wall-E
+2006:The lives of others
+2003:Oldboy
+2000:Memento
+1997:Princess Mononoke
+1981:Indiana Jones and the Raiders of the Lost Dark
+1980:The Shining
+1979:Apocalypse Now
+1979:Alien
+2019:1917
+2012:The Hunt
+2010:Incendies
+2001:Amelie
+2000:Snatch
+1999:American Beauty
+1995:Braveheart
+1985:Come and See
+2018:Andhadhun
+2018:Green Book
+2019:Klaus
+2012:Gangs of Wasseypur
+2010:Shutter Island
+2009:Up
+2013:The Wolf of Wall Street
+2007:There Will Be Blood
+2005:Batman Begins
+2004:Downfall
+2001:A Beautiful Mind
+1996:The Bandit
+1995:Heat
+1995:Casino
+1992:Unforgiven
+1988:Die Hard
+1976:Taxi Driver
+1974:Chinatown
+1963:The Great Escape
+2017:Logan
+2014:Wild Tales
+2014:The Grand Budapest Hotel
+2014:Gone Girl
+2016:Hacksaw bridge
+2015:Inside Out
+2019:Ford v Ferrari
+2015:Spotlight
+2013:Prisoners
+2011:Warrior
+2008:Gran Torino
+2009:Mary and Max
+2010:How to Train Your Dragon
+2007:Into the Wild
+2005:V for Vendetta
+2004:Million Dollar Baby
+2004:Hotel Rwanda
+2004:Before Sunset
+2003:Memories of Murder
+2003:Finding Nemo
+2001:Monsters, Inc.
+1999:The Sixth Sense
+1998:The Truman Show
+1996:Fargo
+1995:Before Sunrise
+### END OF INPUT ###

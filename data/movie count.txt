@@ -1,0 +1,153 @@
+Parasite
+Pulp Fiction
+Mary Poppins
+Gone with the wind
+The Dark Knight
+Joker
+Forrest Gump
+Psycho
+Mary Poppins
+Marley and Me
+Gone with the wind
+The bridge on the river Kwai
+La La Land
+Requiem for a dream
+Goodfellas
+Dunkirk
+Fight Club
+Kill Bill
+Pulp Fiction
+Pirates of the Caribbean
+12 angry men
+Casablanca
+Call me by my name
+Toy Story
+Moonlight
+The bridge on the river Kwai
+Schindler’s List
+Parasite
+Fight Club
+Pirates of the Caribbean
+Requiem for a dream
+Catch me if you can
+Goodfellas
+Kill Bill
+Requiem for a dream
+12 years a slave
+Gladiator
+Pirates of the Caribbean
+Avatar
+Pirates of the Caribbean
+The Shawshank Redemption
+The Shawshank Redemption
+Marley and Me
+Eternal Sunshine of the Spotless Mind
+12 angry men
+Crazy Stupid Love
+Schindler’s List
+The wizard of oz
+Eternal Sunshine of the Spotless Mind
+The silence of the lambs
+Annabelle
+The Shawshank Redemption
+The wizard of oz
+Slumdog Millionaire
+Inception
+Schindler’s List
+Parasite
+The Shawshank Redemption
+The bridge on the river Kwai
+Gladiator
+Requiem for a dream
+Toy Story
+Forrest Gump
+12 years a slave
+Me Before You
+The Inglorious Basterds
+The wizard of oz
+12 years a slave
+Inception
+The Godfather
+La La Land
+The Inglorious Basterds
+The Dark Knight
+The Graduate
+12 years a slave
+Casablanca
+Goodfellas
+The Shawshank Redemption
+Gone with the wind
+Pulp Fiction
+Inception
+Titanic
+Harry Potter and the prisoner of  Azkaban
+Grown Ups
+Harry Potter and the prisoner of  Azkaban
+Pirates of the Caribbean
+Pulp Fiction
+Don’t Breathe
+Inception
+Fight Club
+Fight Club
+Mary Poppins
+The Shawshank Redemption
+Pirates of the Caribbean
+Crazy Stupid Love
+The Dark Knight
+The Dark Knight
+Pulp Fiction
+The bridge on the river Kwai
+Avatar
+Inception
+Grown Ups
+Slumdog Millionaire
+Casablanca
+Toy Story
+Annabelle
+Me Before You
+Requiem for a dream
+Harry Potter and the prisoner of  Azkaban
+Forrest Gump
+Gladiator
+Eternal Sunshine of the Spotless Mind
+Schindler’s List
+Dunkirk
+Crazy Stupid Love
+Once upon a time in the west
+Joker
+Fight Club
+Me Before You
+The Social Network
+Parasite
+Mary Poppins
+Me Before You
+Titanic
+Pulp Fiction
+The Social Network
+Parasite
+Toy Story
+Gone with the wind
+Catch me if you can
+Once upon a time in the west
+Parasite
+Pulp Fiction
+La La Land
+Joker
+Jurassic Park
+The Godfather
+The silence of the lambs
+Casablanca
+Fight Club
+Forrest Gump
+The wizard of oz
+Don’t Breathe
+Jurassic Park
+The Dark Knight
+Love, Simon
+Forrest Gump
+Me Before You
+Marley and Me
+Requiem for a dream
+12 years a slave
+Catch me if you can
+### END OF INPUT ###
